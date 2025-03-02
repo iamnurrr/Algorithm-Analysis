@@ -1,0 +1,14 @@
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/bin/Debug/net9.0/SearchMethodforSmallest
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/bin/Debug/net9.0/SearchMethodforSmallest.deps.json
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/bin/Debug/net9.0/SearchMethodforSmallest.runtimeconfig.json
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/bin/Debug/net9.0/SearchMethodforSmallest.dll
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/bin/Debug/net9.0/SearchMethodforSmallest.pdb
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.GeneratedMSBuildEditorConfig.editorconfig
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.AssemblyInfoInputs.cache
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.AssemblyInfo.cs
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.csproj.CoreCompileInputs.cache
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.dll
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/refint/SearchMethodforSmallest.dll
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.pdb
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/SearchMethodforSmallest.genruntimeconfig.cache
+/home/merve/RiderProjects/SearchMethodforSmallest/SearchMethodforSmallest/obj/Debug/net9.0/ref/SearchMethodforSmallest.dll
